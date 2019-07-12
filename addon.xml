@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.jimmydoreshow" name="The Jimmy Dore Show Podcasts" version="1.0.0" provider-name="leopheard">
+<addon id="plugin.audio.kimiversenshow" name="The Kim Iversen Show Podcasts" version="1.0.0" provider-name="leopheard">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -13,21 +13,21 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language></language>
-    <summary lang="en">Audio podcasts from The Jimmy Dore Show and various comedy clips</summary>
-    <description lang="en">Jimmy Dore and Stefané Zamorano bring you laughs and some of your favorite comedian guests every week as they discuss comedy and everything else in the show of the same name. On Wednesdays, join Jimmy and his live Jimmy Dore Show on radio KPFK 90.7 FM Los Angeles, bringing you the latest in Pop and Politics. Nearly three hours of free Jimmy Dore comedy is available every week via podcast.
+    <summary lang="en">Audio podcasts from The Kim Show Iversen</summary>
+    <description lang="en">Kim Iversen is an independent minded rational progressive giving an honest take on today’s politics.
     </description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
-    <source>https://github.com/leopheard/plugin.audio.jimmydoreshow.git</source>
-    <website>https://www.davidpakman.com/</website>
+    <source>https://github.com/leopheard/plugin.audio.kimiversenshow.git</source>
+    <website>https://www.kimiversen.com/</website>
     <audio_guide></audio_guide>
         	<assets>
 			<icon>resources/media/icon.jpg</icon>
 			<fanart>resources/media/fanart.png</fanart>
-			<screenshot>resources/media/screen1.jpg</screenshot>
-			<screenshot>resources/media/screen2.jpg</screenshot>
-			<screenshot>resources/media/screen3.png</screenshot>
+			<screenshot>resources/media/screen1.jpeg</screenshot>
+			<screenshot>resources/media/screen2.png</screenshot>
+			<screenshot>resources/media/screen3.jpeg</screenshot>
 		</assets>
   </extension>
 </addon>
